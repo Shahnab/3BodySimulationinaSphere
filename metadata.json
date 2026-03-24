@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Epicycles",
+  "description": "A 3D visualization of harmonic motion using nested circular paths with a glowing bloom effect.",
+  "requestFramePermissions": []
+}
